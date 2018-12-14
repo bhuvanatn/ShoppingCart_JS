@@ -1,5 +1,5 @@
 Shopping Cart </br>
-<a src = "https://bhuvanatn.github.io/ShoppingCart_JS/index.html" > Shopping Cart Application </a> </br>
+<a src="https://bhuvanatn.github.io/ShoppingCart_JS/index.html"> Shopping Cart Application </a> </br>
 This application uses traversing DOM through javascript for adding items for Cart.</br>
 It shows following funtionalities:</br>
 
